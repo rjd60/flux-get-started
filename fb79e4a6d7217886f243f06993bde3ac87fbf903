@@ -1,0 +1,1 @@
+{"jobID":"06580a70-c36d-821a-66ba-cd5c04f96fae","spec":{"type":"policy","cause":{"Message":"","User":"Robert Duncan \u003cRobert.Duncan@uk.ibm.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
